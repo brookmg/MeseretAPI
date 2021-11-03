@@ -28,7 +28,7 @@
     "objection": "^2.2.3",
     "pg": "^8.3.3",
     "request-promise": "^4.2.6",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.11.6",
